@@ -5,8 +5,7 @@
 require "fomula"
 
 class Kuri < Formula
-  desc ""
-  homepage ""
+  homepage "https://github.com/bannzai/Kuri/"
   url "https://github.com/bannzai/Kuri/releases/download/0.2.0/kuri.zip"
   sha256 "fe45f8df36bde48c450334ade96c0a48b6595b0a73dddc7ff0a78c40f4797f4f"
 

@@ -2,8 +2,6 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-require "fomula"
-
 class Kuri < Formula
   homepage "https://github.com/bannzai/Kuri/"
   url "https://github.com/bannzai/Kuri/releases/download/0.2.0/kuri.zip"

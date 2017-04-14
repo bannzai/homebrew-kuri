@@ -2,11 +2,13 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
+require "fomula"
+
 class Kuri < Formula
   desc ""
   homepage ""
-  url "https://github.com/bannzai/Kuri/releases/download/0.1.3/kuri.zip"
-  sha256 "6fd315859b786c3907ada6956dbf7f7286df424c75c4123530e1aa6f2b892377"
+  url "https://github.com/bannzai/Kuri/releases/download/0.2.0/kuri.zip"
+  sha256 "fe45f8df36bde48c450334ade96c0a48b6595b0a73dddc7ff0a78c40f4797f4f"
 
   # depends_on "cmake" => :build
 

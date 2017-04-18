@@ -5,7 +5,7 @@
 class Kuri < Formula
   homepage "https://github.com/bannzai/Kuri/"
   url "https://github.com/bannzai/Kuri/releases/download/0.2.0/kuri.zip"
-  sha256 "fe45f8df36bde48c450334ade96c0a48b6595b0a73dddc7ff0a78c40f4797f4f"
+  sha256 "a81b9eea72473e5637c94a57e73bb7d1e4f0a9ac9e4428e944acc4bfa0159a74"
 
   # depends_on "cmake" => :build
 
